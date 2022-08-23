@@ -19,7 +19,6 @@ project "GLFW"
     }
     
     filter "system:windows"
-        cppdialect "c++17"
         staticruntime "on"
         systemversion "latest"
         
